@@ -20,7 +20,7 @@ export default function HomePage() {
       description="Apply for premium roles in artificial intelligence. Get access to exclusive tools, networking, and high-paying projects with our tiered membership."
       primaryButton={{
         text: "Apply Now",
-        href: "#contact",
+        href: "#pricing",
       }}
       secondaryButton={{
         text: "Explore Plans",
